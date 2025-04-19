@@ -1,0 +1,10 @@
+[
+  {
+    "description": "Прибрати в кімнаті",
+    "done": false
+  },
+  {
+    "description": "Забрати посилку",
+    "done": true
+  }
+]
